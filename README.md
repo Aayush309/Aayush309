@@ -81,12 +81,6 @@ A lightweight Flutter app built for **personal daily use**
 
 ---
 
-## 📊 GitHub Stats
-
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush309&show_icons=true&hide_border=true)
-
----
-
 ## 🤝 Open To
 
 - Flutter internships
