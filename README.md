@@ -20,27 +20,19 @@ I prefer **clarity over complexity** and focus on writing code that is easy to u
 ### 💻 Programming Languages
 - Dart
 - Python
-- C
+- Java
 
-### 🌐 Web Basics
+### 🌐 Web 
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 
-### 🛠️ Tools & Environment
+### 🛠️ Tools
 - Git & GitHub
 - Linux (Ubuntu – daily driver)
-- VS Code / Android Studio
-
----
-
-## 🎯 What I Focus On
-
-- Building **real-use apps**, not just demo projects
-- **Offline-first architecture** and local storage
-- Clean app structure without unnecessary abstraction
-- Preparing for **internships and real-world development**
-- Learning by building instead of over-planning
+- VS Code
+- Android Studio
 
 ---
 
@@ -52,7 +44,6 @@ A property listing and booking platform designed with real-world usage in mind.
 **Tech Used**
 - Flutter (Frontend)
 - Supabase (Backend)
-- SQLite for local data handling
 - REST-style API interaction
 
 **Key Features**
@@ -61,7 +52,6 @@ A property listing and booking platform designed with real-world usage in mind.
 - Search, filter, and date-based filtering
 - User authentication
 - Backend-driven architecture
-- Clean UI using limited, eye-pleasing color themes
 
 **Focus**
 - Practical filters and flows
@@ -71,12 +61,12 @@ A property listing and booking platform designed with real-world usage in mind.
 ---
 
 ### 📖 Manga Manager (Personal Utility App)
-A lightweight Flutter app built for **personal daily use**, not as a showcase project.
+A lightweight Flutter app built for **personal daily use**
 
 **Tech Used**
 - Flutter
 - **Drift (SQLite)**
-- Local-first storage
+- Supabase
 
 **Key Features**
 - Offline-first design
@@ -88,17 +78,6 @@ A lightweight Flutter app built for **personal daily use**, not as a showcase pr
 - To get comfortable with **local databases**
 - To avoid overengineering
 - To build something I actually use
-
----
-
-## 🧠 Development Philosophy
-
-- Start simple, then improve
-- Avoid building features “just in case”
-- Prefer readable code over clever code
-- Tools should serve the app — not the other way around
-
-> *“If it works, is readable, and is easy to change later — it’s good code.”*
 
 ---
 
