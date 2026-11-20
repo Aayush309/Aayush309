@@ -1,89 +1,146 @@
-# 👋 Hi, I'm Aayush
+# Hi, I'm Aayush Shah
 
-I'm an **MCA student** and a **Flutter-focused developer** who enjoys building **simple, practical applications** that solve real problems.  
-I prefer **clarity over complexity** and focus on writing code that is easy to understand, maintain, and ship.
+**MCA Student (2025–2027) | Flutter Developer | Mobile Application Development**
+
+I'm a Flutter-focused developer interested in building practical, scalable, and user-friendly applications. I enjoy working across the mobile development stack, from developing responsive interfaces and managing application state to integrating backend services, databases, and native Android functionality.
+
+I value clean architecture, maintainable code, and building software that solves real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+## Technical Skills
 
-### 📱 Mobile
-- **Flutter (Primary)**
-- Dart
-- Material UI
+### Mobile Application Development
+- Flutter and Dart
+- Material Design and Responsive UI
+- Android Development
+- Platform Channels and Native Android Integration
+- Kotlin (Learning)
+- Jetpack Compose (Exposure)
 
-### 🗄️ Backend & Databases
-- **Supabase** (Auth, Database, Storage)
+### State Management and Architecture
+- Riverpod
+- GetX
+- Clean Architecture
+- Repository Pattern
+- GoRouter
+- Freezed
+
+### Backend and Databases
+- Supabase (Authentication, PostgreSQL, Storage, RLS, Edge Functions)
+- Firebase (Authentication, Cloud Firestore, FCM)
 - SQLite
-- **Drift** (Local database & offline-first apps)
+- Drift (Local Database and Offline-first Applications)
+- REST API Integration
+- Background File Uploads and Downloads
 
-### 💻 Programming Languages
+### Programming Languages
 - Dart
-- Python
 - Java
+- Kotlin
+- Python
+- JavaScript
 
-### 🌐 Web 
+### Web Technologies
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 
-### 🛠️ Tools
-- Git & GitHub
-- Linux (Ubuntu – daily driver)
-- VS Code
+### Development Tools
+- Git and GitHub
 - Android Studio
+- Linux (Ubuntu)
+- Postman
+- Firebase Console
+- Supabase Dashboard
 
 ---
 
-## 📌 Projects
+## Professional Experience
 
-### 🏡 WanderNest (Academic + Practical Project)
-A property listing and booking platform designed with real-world usage in mind.
+### Flutter Developer Intern | Nextsavy Technologies
+*April 2026 – October 2026*
 
-**Tech Used**
-- Flutter (Frontend)
-- Supabase (Backend)
-- REST-style API interaction
+Gained practical experience in Flutter application development and cross-platform mobile development workflows.
+
+**Responsibilities and Technical Exposure**
+- Developed Flutter interfaces and implemented application navigation.
+- Integrated Firebase Authentication and Cloud Firestore.
+- Worked with Google Maps integration.
+- Implemented background file upload and download workflows.
+- Explored upload and download progress tracking with pause, resume, and cancel functionality.
+- Implemented form validation and input constraints.
+- Worked with localization, application themes, and RTL layouts.
+- Explored native Android integration using Method Channels.
+- Configured Android build flavors and generated signed APKs.
+- Worked with deep linking and application configuration.
+
+---
+
+## Projects
+
+### WanderNest — Property Listing and Booking Platform
+
+A full-stack Flutter application designed to connect property owners with potential guests.
+
+**Technologies:** Flutter, Dart, GetX, Supabase, PostgreSQL, Firebase Cloud Messaging
 
 **Key Features**
-- Property listings with images
-- Ratings and guest reviews
-- Search, filter, and date-based filtering
-- User authentication
-- Backend-driven architecture
+- Separate guest, property lister, and administrator roles.
+- Property listings and availability management.
+- Booking workflows and date-based search.
+- Ratings, reviews, and owner replies.
+- Administrative approval and moderation.
+- Authentication and role-based access control.
+- Database security using Supabase Row Level Security.
+- Email notifications and push notifications.
 
-**Focus**
-- Practical filters and flows
-- Maintainable backend logic
-- Realistic project structure instead of shortcuts
+**Live Demo:** [wandernest.aayushbuilds.in](https://wandernest.aayushbuilds.in)
 
----
+### Manga Manager — Personal Reading Tracker
 
-### 📖 Manga Manager (Personal Utility App)
-A lightweight Flutter app built for **personal daily use**
+A lightweight, offline-first Flutter application for managing manga reading lists and tracking reading progress.
 
-**Tech Used**
-- Flutter
-- **Drift (SQLite)**
-- Supabase
+**Technologies:** Flutter, Dart, Drift, SQLite
 
 **Key Features**
-- Offline-first design
-- Track manga reading progress
-- Fast access and minimal UI
-- No unnecessary features or bloat
+- Create, update, and delete manga entries.
+- Search and filter reading lists.
+- Store manga links for quick access.
+- Local data persistence using Drift and SQLite.
+- Minimal interface focused on everyday usability.
 
-**Why This Project**
-- To get comfortable with **local databases**
-- To avoid overengineering
-- To build something I actually use
+**Focus:** Local database management, offline-first development, and practical application design.
+
+### Nexus — Collaborative Communication Platform
+
+An ongoing personal project exploring a Microsoft Teams-inspired communication platform.
+
+**Technologies:** Flutter, Riverpod, Freezed, Supabase
+
+**Planned Features**
+- Team, channel, and direct messaging functionality.
+- Contact discovery and search.
+- Secure messaging and file sharing.
+- Adaptive desktop and mobile layouts.
+- Public-key-based identity and encryption concepts.
 
 ---
 
-## 🤝 Open To
+## Currently Learning
 
-- Flutter internships
-- Learning backend patterns
-- Improving app architecture
-- Building practical tools that solve real problems
+- Advanced Flutter architecture and application design.
+- Modern state management with Riverpod.
+- Native Android development using Kotlin.
+- Backend development with Spring Boot.
+- Secure authentication and database design.
+- Cross-platform application performance and responsiveness.
+
+---
+
+## Connect With Me
+
+I'm interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in mobile application development.
+
+- **LinkedIn:** [Aayush Shah](https://www.linkedin.com/in/aayush-shah-flutter-dev/)
